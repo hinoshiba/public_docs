@@ -5,3 +5,10 @@ public
 * 多重管理にしたらめんどくさいから、個別記事や個別リポジトリにしたらここから抜く
 
 
+### setup
+
+* [kvm](./setup/kvm.md)
+* [ubuntuOnNUC](./setup/ubuntu.md)
+
+### operation
+
