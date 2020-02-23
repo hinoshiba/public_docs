@@ -12,3 +12,5 @@ public
 
 ### operation
 
+* [sslCert](./ope/sslcert.md)
+* [yumが404](./ope/yum404.md)
