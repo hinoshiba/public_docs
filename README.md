@@ -9,6 +9,8 @@ public
 
 * [kvm](./setup/kvm.md)
 * [ubuntuOnNUC](./setup/ubuntu.md)
+* [nfs](./setup/nfs.md)
+* [onedrive@ubuntu](./setup/onedriveAtUbuntu.md)
 
 ### operation
 
