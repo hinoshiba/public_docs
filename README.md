@@ -9,10 +9,10 @@ public
 
 * os
 	* ubuntu
+		* [dust remove](./setup/removeDust.md)
 		* [disableIPv6](./setup/disableIPv6.md)
 		* [intall iptables](./setup/installIptables.md)
 		* [disableBridgeIptables](./setup/disableBridgeIptables.md)
-		* [dust remove](./setup/removeDust.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
