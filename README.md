@@ -10,6 +10,7 @@ public
 * os
 	* ubuntu
 		* [disableIPv6](./setup/disableIPv6.md)
+		* [intall iptables](./setup/installIptables.md)
 		* [disableBridgeIptables](./setup/disableBridgeIptables.md)
 		* [dust remove](./setup/removeDust.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
