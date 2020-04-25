@@ -21,7 +21,10 @@ public
 
 ### operation
 
-* [sslCert](./ope/sslcert.md)
-* [yumが404](./ope/yum404.md)
-* [mygithubio](./ope/mygithubio.md)
-* [gihub backup](./ope/github_backup.md)
+* ope
+	* [sslCert](./ope/sslcert.md)
+	* [mygithubio](./ope/mygithubio.md)
+	* [gihub backup](./ope/github_backup.md)
+* tips
+	* [yumが404](./ope/yum404.md)
+	* [uuidでmount](./ope/uuidMount.md)
