@@ -1,7 +1,7 @@
 disable ipv6
 ===
 
-1. add `/etc/sysctl.conf`
+1. add to `/etc/sysctl.conf`
     ```
     net.ipv6.conf.all.disable_ipv6=1
     net.ipv6.conf.default.disable_ipv6=1
@@ -17,4 +17,8 @@ disable ipv6
     - GRUB_CMDLINE_LINUX=""
     + GRUB_CMDLINE_LINUX="ipv6.disable=1"
     ```
-4. reboot
+4. update grub
+    ```
+    sudo update-grub
+    ```
+5. reboot
