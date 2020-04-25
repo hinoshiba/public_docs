@@ -11,3 +11,7 @@ uuidでmount
 	```
 	/dev/disk/by-uuid/bcc4d7a8-543a-407f-a330-c83735f50431 <target> ext4 defaults,noatime 0 2
 	```
+3. mount
+	```
+	sudo mount -a
+	```
