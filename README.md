@@ -9,6 +9,7 @@ public
 
 * os
 	* ubuntu
+		* [disableIPv6](./setup/disableIPv6.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
