@@ -7,9 +7,11 @@ public
 
 ### setup
 
+* os
+	* ubuntu
+		* [ubuntuOnNUC](./setup/ubuntu.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
-* [ubuntuOnNUC](./setup/ubuntu.md)
 * [nfs](./setup/nfs.md)
 * [onedrive@ubuntu](./setup/onedriveAtUbuntu.md)
 
