@@ -26,6 +26,7 @@ public
 	* [sslCert](./ope/sslcert.md)
 	* [mygithubio](./ope/mygithubio.md)
 	* [gihub backup](./ope/github_backup.md)
+	* [mysql復旧/保存方法](./ope/recovery_mysqldb.md)
 * tips
 	* [yumが404](./ope/yum404.md)
 	* [uuidでmount](./ope/uuidMount.md)
