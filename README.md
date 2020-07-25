@@ -15,6 +15,7 @@ public
 		* [disableBridgeIptables](./setup/disableBridgeIptables.md)
 		* [timezoneJST](./setup/timezoneJST.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
+		* [caps2ctrl](./setup/caps2ctrl.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
 * [nfs](./setup/nfs.md)
