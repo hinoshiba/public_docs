@@ -26,6 +26,7 @@ public
 	* [firefox_esr](./setup/gui_ws/firefox_esr.md)
 	* [opera](./setup/gui_ws/opera.md)
 	* [chromium](./setup/gui_ws/choromium.md)
+	* [rdp](./setup/gui_ws/xrdp.md)
 
 ### operation
 
