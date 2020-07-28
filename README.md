@@ -16,6 +16,7 @@ public
 		* [timezoneJST](./setup/timezoneJST.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
 		* [caps2ctrl](./setup/caps2ctrl.md)
+		* [docker](./setup/docker.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
 * [nfs](./setup/nfs.md)
