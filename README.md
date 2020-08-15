@@ -29,6 +29,7 @@ public
 	* [chromium](./setup/gui_ws/choromium.md)
 	* [rdp](./setup/gui_ws/xrdp.md)
 	* [application_proxy](./setup/gui_ws/proxy.md)
+	* [x_mouse](./setup/gui_ws/x_mouse.md)
 
 ### operation
 
