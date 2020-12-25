@@ -7,14 +7,23 @@ public
 
 ### setup
 
-* os
-	* ubuntu
+* os-common
+	* ubuntu20.04
+		* [repositoryTarget2Jp](./setup/repotarget2jap.md)
+		* [langageUpdate](./setup/lang.md)
+		* [timezoneJST](./setup/timezoneJST.md)
+		* [dust remove](./setup/removeDust.md)
+		* [chronyd](./setup/chrony.md)
+		* [nftables](./setup/nftables.md)
+		* [update ssh config](./setup/sshd.md)
+	* ubuntu16.04
 		* [dust remove](./setup/removeDust.md)
 		* [disableIPv6](./setup/disableIPv6.md)
 		* [intall iptables](./setup/installIptables.md)
 		* [disableBridgeIptables](./setup/disableBridgeIptables.md)
 		* [timezoneJST](./setup/timezoneJST.md)
 		* [ubuntuOnNUC](./setup/ubuntu.md)
+	* workstation
 		* [caps2ctrl](./setup/caps2ctrl.md)
 		* [docker](./setup/docker.md)
 * [kvm](./setup/kvm.md)
@@ -30,9 +39,10 @@ public
 	* [rdp](./setup/gui_ws/xrdp.md)
 	* [application_proxy](./setup/gui_ws/proxy.md)
 	* [x_mouse](./setup/gui_ws/x_mouse.md)
+* service
+	* [trac](./service/setup/trac.md)
 
 ### operation
-
 * ope
 	* [sslCert](./ope/sslcert.md)
 	* [mygithubio](./ope/mygithubio.md)
