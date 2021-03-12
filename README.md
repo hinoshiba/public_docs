@@ -41,6 +41,7 @@ public
 	* [x_mouse](./setup/gui_ws/x_mouse.md)
 * service
 	* [trac](./service/setup/trac.md)
+	* [minecraftViaDocker](./service/setup/minecraft.md)
 
 ### operation
 * ope
