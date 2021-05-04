@@ -30,7 +30,7 @@ trac
 	sudo chown trac-user. -R /var/service/trac
 	```
 5. systemdファイル作成
-	* `/lib/systemd/system/tracd.service`
+	* `/etc/systemd/system/tracd.service`
 		```
 		[Unit]
 		Description=Trac Server
