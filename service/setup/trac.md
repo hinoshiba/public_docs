@@ -6,6 +6,7 @@ trac
 1. 依存パッケージのインストール
 	```
 	sudo -E apt install curl python subversion nginx
+	# svnには、必要に応じてproxy設定をする
 	```
 2. pip2のインストール
 	```
