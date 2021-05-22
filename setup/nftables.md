@@ -12,6 +12,7 @@ nftables
 	    * nftablesを選択
 	5. `sudo vim /etc/nftables.conf`
 		```
+		#!/usr/sbin/nft -f
 		flush ruleset
 
 		table inet filter {
