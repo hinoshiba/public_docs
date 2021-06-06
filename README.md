@@ -49,6 +49,9 @@ public
 	* [mygithubio](./ope/mygithubio.md)
 	* [gihub backup](./ope/github_backup.md)
 	* [mysql復旧/保存方法](./ope/recovery_mysqldb.md)
+* docker
+	* [docker 全部削除系](./ope/docker/all_remove.md)
+	* [imageからdockerfile復元](./ope/docker/extract_dockerfile.md)
 * tips
 	* [yumが404](./ope/yum404.md)
 	* [uuidでmount](./ope/uuidMount.md)
