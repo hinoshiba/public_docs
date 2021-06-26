@@ -52,6 +52,7 @@ public
 * docker
 	* [docker 全部削除系](./ope/docker/all_remove.md)
 	* [imageからdockerfile復元](./ope/docker/extract_dockerfile.md)
+	* [dockerのクロスコンパイル](./ope/docker-xcompile.md)
 * tips
 	* [yumが404](./ope/yum404.md)
 	* [uuidでmount](./ope/uuidMount.md)
