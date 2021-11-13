@@ -1,8 +1,8 @@
-public
+public_docs
 ===
 
 * 個人のメモで公開して良いもの
-* 多重管理にしたらめんどくさいから、個別記事や個別リポジトリにしたらここから抜く
+* 多重管理にしたらめんどくさいから、個別記事や個別リポジトリにしたらここから抜くこと
 
 
 ### setup
@@ -59,3 +59,8 @@ public
 * tips
 	* [yumが404](./ope/yum404.md)
 	* [uuidでmount](./ope/uuidMount.md)
+
+### よく使うページ
+
+* [endoflife.date](https://endoflife.date/)
+	* OSS等のEOL確認する
