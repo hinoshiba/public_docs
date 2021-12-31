@@ -26,6 +26,8 @@ public_docs
 	* workstation
 		* [caps2ctrl](./setup/caps2ctrl.md)
 		* [docker](./setup/docker.md)
+	* macOS
+		* [x11forwarding](./setup/mac/xf.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
 * [nfs](./setup/nfs.md)
