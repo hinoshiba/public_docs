@@ -6,8 +6,9 @@ x11 forwarding
 2. altキー割り当て
 	* `~/.Xmodmap` へ以下を加筆
 ```
-clear mod1
-keycode 66 = Meta_L
-keycode 63 = Meta_R
-add mod1 = Meta_L Meta_R
+clear Mod1
+keycode 66 = Alt_L
+keycode 69 = Alt_R
+add Mod1 = Alt_L
+add Mod1 = Alt_R
 ```
