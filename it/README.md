@@ -52,6 +52,7 @@ IT関係
 	* gpg
 		* [gpg作成](./ope/create_gpg.md)
 		* [github登録と、gitでの利用設定](./ope/append_gpg_onGit.md)
+	* [socks-proxy](./ope/socks-proxy.md)
 * docker
 	* [docker 全部削除系](./ope/docker/all_remove.md)
 	* [imageからdockerfile復元](./ope/docker/extract_dockerfile.md)
