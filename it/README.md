@@ -3,7 +3,7 @@ IT関係
 
 * it関係のメモページ
 
-### setup
+# Setup
 
 * os-common
 	* ubuntu20.04
@@ -26,6 +26,7 @@ IT関係
 		* [docker](./setup/docker.md)
 	* macOS
 		* [x11forwarding](./setup/mac/xf.md)
+		* [brew(x86) Install onM1](./setup/mac_m1/x86_brew.md)
 * [kvm](./setup/kvm.md)
 	* [enable kvm console](./setup/kvm_console.md)
 * [nfs](./setup/nfs.md)
@@ -43,7 +44,8 @@ IT関係
 	* [trac](./service/setup/trac.md)
 	* [minecraftViaDocker](./service/setup/minecraft.md)
 
-### operation
+# Operation
+
 * ope
 	* [sslCert](./ope/sslcert.md)
 	* [mygithubio](./ope/mygithubio.md)
