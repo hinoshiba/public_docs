@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 title: hinoshiba.com./public_docs/
-description: <a href="https://www.hinoshiba.com/aboutme.html">hinoshiba/ShungoKumasaka</a> の情報やハイパーリンクまとめ先<br><a href="https://www.hinoshiba.com/">root(hinoshiba.com./)へ移動</a>
+description: <a href="https://www.hinoshiba.com/aboutme.html">hinoshiba/ShungoKumasaka</a> の情報やハイパーリンクまとめ先<br><a href="../">you@browser$ cd .. || 一つ上の階層へ戻る</a>
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: G-5SJV5QGB3G
