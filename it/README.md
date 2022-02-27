@@ -47,6 +47,7 @@ IT関係
 * gpg
 	* [gpg作成](./ope/create_gpg.md)
 	* [github登録と、gitでの利用設定](./ope/append_gpg_onGit.md)
+	* [gpg保管](./ope/export_gpg.md)
 * [socks-proxy](./ope/socks-proxy.md)
 * [文字コード変更@vim](./ope/vim-setfont.md)
 

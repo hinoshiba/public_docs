@@ -11,9 +11,9 @@ gpg --full-generate-key
 	* 鍵長は? (3072) 4096
 	* 鍵の有効期間は? (0) 0
 	* name
-		* hinoshiba
+		* <myname>
 	* email
-		* s.k.noe@hinoshiba.com
+		* <email>
 
 ### 作成を確認
 ```sh
