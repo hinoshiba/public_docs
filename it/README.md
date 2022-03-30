@@ -14,6 +14,8 @@ IT関係
 	* [chronyd](./setup/chrony.md)
 	* [nftables](./setup/nftables.md)
 	* [update ssh config](./setup/sshd.md)
+	* [update hostname](./setup/chage_hostname.md)
+	* [add user & add sudo](./setup/add_user_sudo.md)
 	* [guiworkstation](./setup/gui_ws/README.md)
 		* [xfce4](./setup/gui_ws/xfce4.md)
 		* [japanese](./setup/gui_ws/japanese.md)
