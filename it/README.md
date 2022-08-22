@@ -29,6 +29,8 @@ IT関係
 * macOS
 	* [x11forwarding](./setup/mac/xf.md)
 	* [brew(x86) Install onM1](./setup/mac_m1/x86_brew.md)
+* gen
+	* [wezTerm](./setup/wezTerm/README.md)
 
 ## Other
 * [kvm](./setup/kvm.md)
@@ -63,3 +65,6 @@ IT関係
 
 * [yumが404](./ope/yum404.md)
 * [uuidでmount](./ope/uuidMount.md)
+
+# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[test](./test)
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[test](./test)
