@@ -15,6 +15,7 @@ local settings = {
 	initial_rows = 64,
 	hyperlink_rules = {}, -- disable hyperlinks # https://wezfurlong.org/wezterm/hyperlinks.html
 	keys = {
+		{ key = "O", mods = "CTRL", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },
 		{ key = "o", mods = "SUPER", action = wezterm.action({ SpawnTab = "CurrentPaneDomain" }) },
 		{ key = "c", mods = "SUPER", action = wezterm.action({ CopyTo = "Clipboard" }) },
 		{ key = "v", mods = "SUPER", action = wezterm.action({ PasteFrom = "Clipboard" }) },
