@@ -7,7 +7,6 @@ local function append_table(table, other)
 end
 
 local settings = {
-	font = wezterm.font("Monaco", {weight="Regular", stretch="Normal", style="Normal", italic=false}),
 	color_scheme = "neon",
 	window_background_opacity = 0.93,
 	text_background_opacity = 1,
@@ -27,12 +26,15 @@ local default_settings = {
 }
 
 local mac_settings = {
+	font = wezterm.font("Monaco", {weight="Regular", stretch="Normal", style="Normal", italic=false}),
 	font_size = 15.0,
 }
 
 local windows_settings = {
+	font = wezterm.font("Cascadia Mono", {weight="Regular", stretch="Normal", style="Normal", italic=false}),
 	use_ime = true,
-	font_size = 15.0,
+	font_size = 11.0,
+	default_prog = {"wsl.exe"}
 }
 
 local linux_settings = {
