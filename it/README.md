@@ -6,7 +6,7 @@ IT関係
 # Setup
 
 ## OS
-* ubuntu20.04
+* ubuntu22.04
 	* [repositoryTarget2Jp](./setup/repotarget2jap.md)
 	* [langageUpdate](./setup/lang.md)
 	* [timezoneJST](./setup/timezoneJST.md)

@@ -9,3 +9,7 @@ sudo adduser <username>
 ```bash
 sudo usermod -aG sudo <username>
 ```
+3. adm追加
+```bash
+sudo usermod -aG adm <username>
+```
