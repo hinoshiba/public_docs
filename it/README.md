@@ -55,6 +55,7 @@ IT関係
 	* [gpg revoke](./ope/revoke_gpg.md)
 * [socks-proxy](./ope/socks-proxy.md)
 * [文字コード変更@vim](./ope/vim-setfont.md)
+* [bashのflock](./ope/bash_flock.md)
 
 ## Docker
 
