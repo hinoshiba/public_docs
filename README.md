@@ -13,3 +13,4 @@ public_docs
 * [その他手順](./ope/README.md)
 	* 特定対応にITな手順が含まれる場合は、[IT関係](./it/README.md) のページのポインタをはる
 * [シェアオフィス](./office/README.md)
+* [ロケットリーグ設定](./game/settings/rocketleague/README.md)
