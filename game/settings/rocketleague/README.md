@@ -1,9 +1,9 @@
 ロケットリーグ設定
 ===
-![](001_gameplay.png)  
-![](002_camera.png)  
-![](003_controls.png)  
-![](004_interface.png)  
-![](005_video.png)  
-![](006_audio.png)  
-![](007_chat.png)  
+![](imgs/001_gameplay.png)  
+![](imgs/002_camera.png)  
+![](imgs/003_controls.png)  
+![](imgs/004_interface.png)  
+![](imgs/005_video.png)  
+![](imgs/006_audio.png)  
+![](imgs/007_chat.png)  
