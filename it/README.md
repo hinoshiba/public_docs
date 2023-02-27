@@ -56,6 +56,8 @@ IT関係
 * [socks-proxy](./ope/socks-proxy.md)
 * [文字コード変更@vim](./ope/vim-setfont.md)
 * [bashのflock](./ope/bash_flock.md)
+* 初期化
+	* [secureerase](./ope/secureerase.md)
 
 ## Docker
 
