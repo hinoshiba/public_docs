@@ -54,6 +54,7 @@ IT関係
 	* [gpg保管](./ope/export_gpg.md)
 	* [gpg revoke](./ope/revoke_gpg.md)
 * [socks-proxy](./ope/socks-proxy.md)
+* [lvm最大化](./ope/lvm2maxsize.md)
 * [文字コード変更@vim](./ope/vim-setfont.md)
 * [bashのflock](./ope/bash_flock.md)
 * 初期化
