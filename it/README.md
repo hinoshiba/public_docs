@@ -29,6 +29,8 @@ IT関係
 * macOS
 	* [x11forwarding](./setup/mac/xf.md)
 	* [brew(x86) Install onM1](./setup/mac_m1/x86_brew.md)
+* windows
+	* [wsl](./setup/wsl/README.md)
 * gen
 	* [wezTerm](./setup/wezTerm/README.md)
 
