@@ -50,6 +50,8 @@ IT関係
 
 * [sslCert](./ope/sslcert.md)
 * [gihub backup](./ope/github_backup.md)
+* git
+	* [localbranchの一括削除](./ope/git_sync_branch.md)
 * [mysql復旧/保存方法](./ope/recovery_mysqldb.md)
 * gpg
 	* [gpg作成](./ope/create_gpg.md)
