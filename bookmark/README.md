@@ -27,6 +27,7 @@
 
 # it
 
+* ターミナルプレビューSS Webアプリ: [carbon](https://carbon.now.sh/)
 * [endoflife.date](https://endoflife.date/)
 * [google analytics](https://analytics.google.com/analytics/)
 * [google search](https://search.google.com/search-console/)
