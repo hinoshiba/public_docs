@@ -12,6 +12,7 @@
 * [buildwith.com](https://builtwith.com/) #web page analyzer
 * [publicwww](https://publicwww.com/websites/startperfectsolutions/) #search by source code
 * [visual site map](https://visualsitemaps.com/)
+* [OSINT tools](https://bellingcat.gitbook.io/toolkit)
 * tool
     * [Cloudflare のバックエンドのサーバ情報が漏れていないか確認するやつ](https://github.com/spyboy-productions/CloakQuest3r)
 * listener
